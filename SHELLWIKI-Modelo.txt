@@ -1,8 +1,9 @@
 ---------------------------------------------------------------------
-#_ SHELLWIKI         |          Manual ShellScript Livre
+#_ SHELLWIKI         |          HOWTOS Livres
 ---------------------------------------------------------------------
 
 Autor:     (ex: João Batista)
+Email:     (ex: lala@gmail.com)
 Categoria: (ex: Bash)
 Criado em: (ex: 12/12/12)
 
