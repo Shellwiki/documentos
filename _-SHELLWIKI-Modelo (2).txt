@@ -1,0 +1,35 @@
+---------------------------------------------------------------------
+#_ SHELLWIKI         |          Manual ShellScript Livre
+---------------------------------------------------------------------
+
+Autor:     (ex: João Batista)
+Categoria: (ex: Bash)
+Criado em: (ex: 12/12/12)
+
+---------------------------------------------------------------------
+
+Título
+
+Pequena descrição. Manter o espaço de 70 colunas e não ultrapassar o
+mesmo.
+
+1. Título do tópico
+
+Conteúdo.
+
+| $ comandos |
+| # comandos |
+
+* Se houver mais tópicos, adicionar enumerando na sua sequência. 
+
+Ao final do artigo, adicione links de referência.
+
+Referências:
+
+$_ Nome do Site - www.site.com.br
+Ex:
+
+$_ Viva o Linux - www.vivaolinux.com.br/artigo/artigotal
+$_ Man Bash Completed - wwww.sitetal.com/bash/beggining
+
+---------------------------------------------------------------------
