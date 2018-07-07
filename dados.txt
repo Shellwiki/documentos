@@ -1,0 +1,21 @@
+      #_ SHELLWIKI     |    A Wiki em Plain Text    |     Banco de Dados
+
+
+Autores [A-Z]
+
+-----------------------------------------------------------------------------------
+#G | Guilherme Machado :: Número total/3
+-----------------------------------------------------------------------------------
+Bourne Again SHell ( https://shellwiki.github.io/documentos/bash/Bash.txt )
+Trabalhando com Echo ( https://shellwiki.github.io/documentos/bash/Trabalhando_com_echo.txt )
+Calendário no Shell ( https://shellwiki.github.io/documentos/utilitarios/Calendario_no_Shell.txt )
+
+
+-----------------------------------------------------------------------------------
+#J | Jefferson Rocha :: Número total/2
+-----------------------------------------------------------------------------------
+Como criar um alias ( https://shellwiki.github.io/documentos/bash/Como_criar_um_alias.txt )
+Variáveis em Bash ( https://shellwiki.github.io/documentos/bash/Variaveis_em_bash.txt ) 
+
+
+
